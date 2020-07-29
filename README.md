@@ -1,4 +1,4 @@
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cs4242) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=joeymizrahi) 
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joey_Mizrahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joey-mizrahi/)](https://www.linkedin.com/in/joey-mizrahi/)
