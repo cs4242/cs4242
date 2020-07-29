@@ -5,8 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joeymizrahi42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joeymizrahi42@gmail.com)](mailto:joeymizrahi42@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/joeymizrahi?label=Follow&style=social)](https://github.com/joeymizrahi/?tab=follow)
----
-<br />
+
 
 - :smile: I like to code, play games, watch movies and hang out with freinds.
 - 🌱 I'm currently improving my skills in Java, Scrum and Agile
