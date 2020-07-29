@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Joey_Mizrahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joey-mizrahi/)](https://www.linkedin.com/in/joey-mizrahi/)
 [![Gmail Badge](https://img.shields.io/badge/-joeymizrahi42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joeymizrahi42@gmail.com)](mailto:joeymizrahi42@gmail.com)
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cs4242)
 [![GitHub followers](https://img.shields.io/github/followers/cs4242?label=Follow&style=social)](https://github.com/cs4242/?tab=follow)
 ---
 <br />
