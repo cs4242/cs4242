@@ -8,7 +8,7 @@
 
 - :smile: I like to code, play games, watch movies and hang out with freinds.
 - 🌱 I'm currently improving my skills in Java, Scrum and Agile
-- :computer: Languages that I know: Python, C/C++, Java, Nodejs.
+- :computer: Languages that I know: Python, C/C++, Java, Javascript.
 <!--
 **cs4242/cs4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
