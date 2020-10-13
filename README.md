@@ -1,14 +1,13 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=joeymizrahi) 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joey_Mizrahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joey-mizrahi/)](https://www.linkedin.com/in/joey-mizrahi/)
-[![Gmail Badge](https://img.shields.io/badge/-joeymizrahi42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joeymizrahi42@gmail.com)](mailto:joeymizrahi42@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/joeymizrahi?label=Follow&style=social)](https://github.com/joeymizrahi/?tab=follow)
-
+[![Linkedin Badge]()](https://www.linkedin.com/in/eitan-shalev-9b09a91b2/)
+[![Gmail Badge](https://img.shields.io/badge/-eitans1111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eitans1111@gmail.com)](mailto:joeymizrahi42@gmail.com)
+ 
 
 - :smile: I like to code, play games, watch movies and hang out with freinds.
 - 🌱 I'm currently improving my skills in Java, Scrum and Agile
-- :computer: Languages that I know: Python, C/C++, Java, Javascript.
+- :computer: Languages that I know: Python, C/C++.
 <!--
 **cs4242/cs4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
